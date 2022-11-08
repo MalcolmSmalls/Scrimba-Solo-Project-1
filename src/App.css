@@ -1,0 +1,28 @@
+
+body{
+  margin:0;
+  background-color:#23252C;
+}
+
+.main-photo {
+  width:317px;
+  height:317px;
+}
+
+.container{
+  display:flex;
+  justify-content:center;
+  margin-top:44px;
+}
+
+.card {
+  width:317px;
+  height:399px;
+}
+
+.main-photo {
+  width:317px;
+  height:317px;
+  background-image: url(../public/bigMalc.jpg);
+  background-size:cover;
+}
