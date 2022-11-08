@@ -54,6 +54,7 @@ body{
 .website-text {
   margin-top:11px;
   font-size:10.24px;
+  color:#F5F5F5;
 }
 
 .header-bottom {
@@ -85,4 +86,7 @@ body{
   color:white;
 }
 
-
+.email-btn > i, .linkedin-btn > i {
+  font-size:16px;
+  padding-right:10px;
+}
