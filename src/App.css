@@ -55,3 +55,34 @@ body{
   margin-top:11px;
   font-size:10.24px;
 }
+
+.header-bottom {
+  padding-top:20px;
+  display:flex;
+  justify-content:center;
+}
+
+.header-bottom > button {
+  width: 115px;
+  height:34px;
+  border-radius:6px;
+}
+
+
+.email-btn{
+  background-color:white;
+  color: #374151;
+}
+
+.email-btn, .linkedin-btn{
+  font-size:14px;
+  font-weight:500;
+}
+
+.linkedin-btn{
+  margin-left:17px;
+  background-color:#5093E2;
+  color:white;
+}
+
+
