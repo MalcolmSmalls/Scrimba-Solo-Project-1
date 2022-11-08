@@ -90,3 +90,16 @@ body{
   font-size:16px;
   padding-right:10px;
 }
+
+.main h2 {
+  font-size:16px;
+  color:#F5F5F5;
+  margin: 33px 38px 5px 36px; 
+}
+
+.main p {
+  font-size:10.24px;
+  color:#DCDCDC;
+  margin-left:36px;
+  margin-right:34px;
+}
